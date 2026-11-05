@@ -7,7 +7,7 @@ export default function ProjectVisual({ project, image }) {
         <span className="dot" /><span className="dot" /><span className="dot" />
         <span className="browser__url">{project.domain}</span>
       </div>
-      <div className="browser__body">
+      <div className={`browser__body ${image ? 'browser__body--image' : ''}`}>
         {image ? (
           <img src={image} alt={`${project.name} screenshot`} loading="lazy" />
         ) : project.accent === 'sunrise' ? (

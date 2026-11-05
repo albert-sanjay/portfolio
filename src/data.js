@@ -48,6 +48,7 @@ export const projects = [
       'Access can be revoked for one person without disrupting anyone else on the network.',
     ],
     tags: ['Captive portal', 'Subscriptions', 'Network access control', 'Multi-tenant'],
+    image: './projects/sunrise-labs.jpg',
     accent: 'sunrise',
   },
   {
@@ -64,6 +65,7 @@ export const projects = [
       'Currently in development — the next iteration is waiting on client feedback.',
     ],
     tags: ['React', 'Responsive design', 'Vercel'],
+    image: './projects/sterlin-dental.jpg',
     accent: 'dental',
   },
 ]
@@ -72,13 +74,13 @@ export const projects = [
 export const caseStudies = [
   {
     title: 'Agent & Merchant Mobile Money App',
-    org: 'Telecel Ghana',
+    org: 'Telecel Ghana(Previously Vodafone Ghana)',
     body: 'A scalable app adopted by mobile money agents and merchants that complements USSD workflows with a modern UI, faster transaction processing and real-time wallet aggregation.',
     tags: ['Mobile', 'API integration', 'Scalable architecture'],
   },
   {
     title: 'Customer Insight & Survey Platform',
-    org: 'Telecel Ghana',
+    org: 'Telecel Ghana(Previously Vodafone Ghana)',
     body: 'Led the design of user roles and role-based access control so the CX team could manage and track service performance across 420+ physical touchpoints nationwide.',
     tags: ['RBAC', 'Analytics', 'Governance'],
   },
@@ -99,7 +101,7 @@ export const caseStudies = [
 export const experience = [
   {
     role: 'Software Developer',
-    company: 'Telecel Ghana',
+    company: 'Telecel Ghana(Previously Vodafone Ghana)',
     period: 'Sep 2025 — Present',
     points: [
       'Built a scalable Agent & Merchant Mobile Money application that complements USSD workflows with a modern UI, delivering faster transactions and real-time wallet aggregation.',

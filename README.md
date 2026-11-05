@@ -1,9 +1,9 @@
 # Albert Sanjay Dansoh — Portfolio
 
-React + Vite portfolio, styled with the Arrivo signature palette
+React + Vite portfolio, styled with the signature palette
 (Midnight Black `#101820`, Champagne Gold `#C5A46D`, Warm Ivory `#F5F3EF`, Slate Grey `#46545C`).
 
-## Run locally
+<!-- ## Run locally
 ```bash
 npm install
 npm run dev        # http://localhost:5173
@@ -39,4 +39,4 @@ Then set **Settings → Pages → Source: Deploy from a branch → `gh-pages`**.
 Your site will be at `https://albert-sanjay.github.io/albert-portfolio/`
 (or `https://albert-sanjay.github.io/` if the repo is named `albert-sanjay.github.io`).
 Asset paths are relative (`base: './'`), so it works under either URL without changes.
-If you use a different repo name, update `homepage` in `package.json`.
+If you use a different repo name, update `homepage` in `package.json`. -->
